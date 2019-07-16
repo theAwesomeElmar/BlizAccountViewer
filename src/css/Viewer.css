@@ -1,0 +1,31 @@
+.viewer-header {
+    font-size: calc(10px + 1em);
+}
+
+.viewer-header-2 {
+    font-size: calc(6px + 1em);
+}
+
+.viewer-name {
+    font-size: calc(4px + 2vmin);
+    font-weight: bold;
+}
+
+.viewer-info {
+    font-size: calc(4px + 2vmin);
+}
+
+.viewer-error {
+    font-size: calc(2vmin);
+    color: #dd2222;
+    margin-top: 20px;
+}
+
+.viewer-private-public {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.viewer-select {
+    font-size: calc(4px + 2vmin);   
+}

@@ -1,0 +1,19 @@
+.OWInfoViewer {
+    padding: 30px;
+    min-height: 100vh;
+}
+
+.OWInfoViewer-selection-area {
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    padding: 20px;
+}
+
+.OWInfoViewer-back-button {
+    font-size: calc(4px + 2vmin);
+    margin-right: 10px;
+}
+
+.OWInfoViewer-op-info-select {
+    font-size: calc(4px + 2vmin);   
+}

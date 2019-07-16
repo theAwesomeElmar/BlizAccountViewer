@@ -1,0 +1,19 @@
+.Loading-spinner {
+    animation: Loading-spinner-spin infinite 5s linear;
+    pointer-events: none;
+    height: 48px;
+}
+
+.Loading-message {
+    color: #22aaaa;
+    margin-bottom: 10px;
+}
+  
+@keyframes Loading-spinner-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}

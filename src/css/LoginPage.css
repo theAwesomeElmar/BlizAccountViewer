@@ -1,0 +1,32 @@
+.LoginPage-header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+    font-size: calc(10px + 2vmin);
+    min-height: 100vh;
+      
+  }
+  
+  .LoginPage-title {
+    font-size: calc(10px + 1em);
+  }
+
+  .LoginPage-bnet-id-button {
+    font-size: calc(4px + 2vmin);
+  }
+  
+  .LoginPage-bnet-id-field {
+    margin-right: 10px;
+    font-size: calc(4px + 2vmin);
+  }
+  
+  .LoginPage-header select {
+    font-size: calc(4px + 2vmin);
+  }
+  
+  .LoginPage-error-message {
+    font-size: calc(2vmin);
+    color: #dd2222
+  }
