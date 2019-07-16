@@ -92,6 +92,9 @@ class HeroesViewer extends React.Component {
       })
   }
 
+  /**
+   * To render the hero dropdown menu
+   */
   renderHeroSelection() {
     let infoOptionsMap = []
     for (let key in this.heroes) {
